@@ -8,7 +8,6 @@ This is my personal fork with following patches:
 + alwaysfullscreen
 + auto start
 + cfacts
-+ chatterino bottom
 + cool autostart
 + fakefullscreen client (with resize fix for chrome-based browsers + noborder fix)
 + multikeycode
